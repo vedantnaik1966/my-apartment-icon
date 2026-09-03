@@ -1,0 +1,16 @@
+{
+    "name": "My Apartment",
+    "short_name": "My Apartment",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#0b1f4d",
+    "theme_color": "#2563eb",
+    "icons": [
+        {
+            "src": "My Appartment.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
